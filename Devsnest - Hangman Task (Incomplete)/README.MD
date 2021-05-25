@@ -19,13 +19,13 @@ You can try playing the game here https://hangmanwordgame.com/
   * open `hangman.py`
   * Read the comments inside hangman function and read the code, to understand you can also use a debugger.
 
-  ### Task 2 (LOOPING)
+  ### Task 2 (LOPPING)
   When you run this program it will only take user's input once and then will stop
   * You have to take multiple inputs from the user, use a loop for this.
   * Statements like "welcome to the game" should only be printed once, take a note of this
   ### Task 3 (LIVES)
   A user should have limited no of chances to guess the correct word, your code should always show no of chances/lives and should reduce it when user guesses incorrectly.
-  
+
   * Use a temp variable named remaining_lives for this and set it to 8 inside hangman function.
   * Correctly change the variable value, when user guesses incorrectly, also handle other corner cases(what happens when it turns 0).
   * Remaining lives should be visible to the user playing the game.
