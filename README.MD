@@ -10,3 +10,9 @@ You can try playing the game here https://hangmanwordgame.com/
 * An unfinished code of the Hangman Game was given along with 8 tasks.
 * In order to play the game, it was needed to code according to the assigned tasks and complete the game.
 
+### On guessing a wrong letter:
+![An example of a wrong guess](https://github.com/saksshham/Hangman-Game/blob/master/Wrong%20guess.png)
+
+### On guessing a correct letter:
+![An example of a correct guess](https://github.com/saksshham/Hangman-Game/blob/master/Correct%20guess.png)
+
