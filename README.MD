@@ -9,3 +9,4 @@ You can try playing the game here https://hangmanwordgame.com/
 ## Contribution:
 * An unfinished code of the Hangman Game was given along with 8 tasks.
 * In order to play the game, it was needed to code according to the assigned tasks and complete the game.
+
