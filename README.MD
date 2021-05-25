@@ -11,8 +11,8 @@ You can try playing the game here https://hangmanwordgame.com/
 * In order to play the game, it was needed to code according to the assigned tasks and complete the game.
 
 ### On guessing a wrong letter:
-![An example of a wrong guess](https://github.com/saksshham/Hangman-Game/blob/master/Wrong%20guess.png)
+![Wrong guess](https://user-images.githubusercontent.com/81289215/119557722-2bba5600-bdbe-11eb-90e1-909d0b4fd2ff.png)
 
 ### On guessing a correct letter:
-![An example of a correct guess](https://github.com/saksshham/Hangman-Game/blob/master/Correct%20guess.png)
+![Correct guess](https://user-images.githubusercontent.com/81289215/119557704-252bde80-bdbe-11eb-8aeb-e9487258e93f.png)
 
